@@ -1,5 +1,5 @@
 # Portfolio
 ## Articles
-- [[ML/Linear Regression]]
-- [[DL/Neural Networks]]
+- [[Linear Regression]]
+- [[Neural Networks]]
 - 
