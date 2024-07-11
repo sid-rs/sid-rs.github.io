@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Linear_Regression.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Linear_Regression.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Linear_Regression.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Linear_Regression.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   "active": "2a7ef55dd4a93a4e",
   "lastOpenFiles": [
     "DL/Neural_Networks.md",
-    "README.md",
     "ML/Linear_Regression.md",
+    "README.md",
     "DL",
     "ML",
     "lr.md",
